@@ -1,0 +1,4 @@
+A Monokai-based color scheme for IntelliJ IDEA 10.5 CE and Scala.
+
+For OS X,
+Place the .xml in ~/Library/Preferences/IntelliJIdea10CE/colors/ and restart IDEA.
