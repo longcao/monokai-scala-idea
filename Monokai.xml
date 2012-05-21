@@ -2248,6 +2248,16 @@
         <option name="ERROR_STRIPE_COLOR" />
       </value>
     </option>
+    <option name="Scala Immutable Collection">
+      <value>
+        <option name="FOREGROUND" />
+        <option name="BACKGROUND" />
+        <option name="FONT_TYPE" value="0" />
+        <option name="EFFECT_COLOR" value="b6ea35" />
+        <option name="EFFECT_TYPE" value="5" />
+        <option name="ERROR_STRIPE_COLOR" />
+      </value>
+    </option>
     <option name="Scala Invalid escape in string">
       <value>
         <option name="FOREGROUND" value="808000" />
@@ -2298,6 +2308,16 @@
         <option name="ERROR_STRIPE_COLOR" />
       </value>
     </option>
+    <option name="Scala Mutable Collection">
+      <value>
+        <option name="FOREGROUND" />
+        <option name="BACKGROUND" />
+        <option name="FONT_TYPE" value="0" />
+        <option name="EFFECT_COLOR" value="f63f86" />
+        <option name="EFFECT_TYPE" value="5" />
+        <option name="ERROR_STRIPE_COLOR" />
+      </value>
+    </option>
     <option name="Scala Number">
       <value>
         <option name="FOREGROUND" value="bc94ff" />
@@ -2330,7 +2350,7 @@
     </option>
     <option name="Scala Pattern value">
       <value>
-        <option name="FOREGROUND" value="cf7d34" />
+        <option name="FOREGROUND" value="fd971f" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
@@ -2428,11 +2448,21 @@
         <option name="ERROR_STRIPE_COLOR" />
       </value>
     </option>
+    <option name="Scala XML Tag">
+      <value>
+        <option name="FOREGROUND" value="b6ea35" />
+        <option name="BACKGROUND" />
+        <option name="FONT_TYPE" value="0" />
+        <option name="EFFECT_COLOR" />
+        <option name="EFFECT_TYPE" value="1" />
+        <option name="ERROR_STRIPE_COLOR" />
+      </value>
+    </option>
     <option name="Scala XML Text">
       <value>
         <option name="FOREGROUND" value="eae285" />
         <option name="BACKGROUND" />
-        <option name="FONT_TYPE" value="1" />
+        <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
         <option name="EFFECT_TYPE" value="0" />
         <option name="ERROR_STRIPE_COLOR" />
@@ -2451,10 +2481,50 @@
     <option name="ScalaDoc comment tag">
       <value>
         <option name="FOREGROUND" value="888671" />
-        <option name="BACKGROUND" value="0" />
+        <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_COLOR" value="808080" />
         <option name="EFFECT_TYPE" value="1" />
+        <option name="ERROR_STRIPE_COLOR" />
+      </value>
+    </option>
+    <option name="ScalaDoc html escape sequences">
+      <value>
+        <option name="FOREGROUND" value="80dff2" />
+        <option name="BACKGROUND" />
+        <option name="FONT_TYPE" value="0" />
+        <option name="EFFECT_COLOR" />
+        <option name="EFFECT_TYPE" value="0" />
+        <option name="ERROR_STRIPE_COLOR" />
+      </value>
+    </option>
+    <option name="ScalaDoc html tag">
+      <value>
+        <option name="FOREGROUND" value="b6ea35" />
+        <option name="BACKGROUND" />
+        <option name="FONT_TYPE" value="0" />
+        <option name="EFFECT_COLOR" />
+        <option name="EFFECT_TYPE" value="0" />
+        <option name="ERROR_STRIPE_COLOR" />
+      </value>
+    </option>
+    <option name="ScalaDoc wiki syntax elements">
+      <value>
+        <option name="FOREGROUND" />
+        <option name="BACKGROUND" />
+        <option name="FONT_TYPE" value="0" />
+        <option name="EFFECT_COLOR" />
+        <option name="EFFECT_TYPE" value="0" />
+        <option name="ERROR_STRIPE_COLOR" />
+      </value>
+    </option>
+    <option name="Standart Java Collection">
+      <value>
+        <option name="FOREGROUND" />
+        <option name="BACKGROUND" />
+        <option name="FONT_TYPE" value="0" />
+        <option name="EFFECT_COLOR" value="80dff2" />
+        <option name="EFFECT_TYPE" value="5" />
         <option name="ERROR_STRIPE_COLOR" />
       </value>
     </option>
