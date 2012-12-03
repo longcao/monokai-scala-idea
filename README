@@ -1,9 +1,19 @@
-A Monokai-based color scheme for IntelliJ IDEA 11 CE and Scala.
+A Monokai-based color scheme for IntelliJ IDEA 12 and primarily Scala (plus other goodies like JavaScript, Java, etc.).
 
 For OS X Mountain Lion,
-Place the .xml in ~/Library/Preferences/IdeaIC11/colors/ and restart IDEA.
+Place the .xml in ~/Library/Preferences/{IntelliJIdea12, IdeaIC12}/colors/ and restart IDEA.
 
 For Windows,
-Place the .xml in %HOMEPATH%.IntelliJIdea11\config\colors and restart IDEA.
+Place the .xml in %HOMEPATH%.IntelliJIdea12\config\colors and restart IDEA.
 
-Based off of http://tumblr.teamon.eu/post/697864114/intellij-idea-monokai-color-theme and https://github.com/tomasr/molokai.
+Based off of http://tumblr.teamon.eu/post/697864114/intellij-idea-monokai-color-theme and https://github.com/tomasr/molokai, colorization may change by my whim.
+
+TODO:
+
+- Closure Templates (.soy)
+- CSS
+- SASS
+- LESS
+- CoffeeScript
+- SQL
+- XML
